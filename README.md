@@ -7,7 +7,7 @@ A simple calculator program written in C
 - Multiplication
 - Division
 
-#### (Division Operation Note):  <br>
+#### (Division Operation Note):   <br>
 -In mathematics, a number cannot be divided by zero, as the result of such an operation is undefined. The code is written with this rule in mind.<br>
 -If the user attempts to divide by zero, the program displays the message: <br>
 “Division by zero is not possible. Incorrect! Please enter a new second number:” <br>
